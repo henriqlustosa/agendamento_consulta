@@ -37,4 +37,6 @@ public class MedicoFormDto {
     @Valid
     private EnderecoFormDto endereco;
 
+    private Boolean ativo;
+
 }

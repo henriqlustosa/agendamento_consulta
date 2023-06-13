@@ -14,19 +14,19 @@ import lombok.Setter;
 @NoArgsConstructor
 public class MedicoResponseDto {
 
-
     private Long id;
+
     private String nome;
     private String email;
     private String crm;
 
-    private String telefone;
+
 
 
     private Especialidade especialidade;
 
 
-    private EnderecoFormDto endereco;
+
 
 
 
